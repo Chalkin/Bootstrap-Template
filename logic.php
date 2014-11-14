@@ -26,6 +26,6 @@ $doc->addScript($tpath.'/js/holder.js');
 $doc->addScript($tpath.'/js/bootstrap.min.js');
 
 // css 
-$doc->addStyleSheet($tpath.'/css/template.css.php?baseurl='.$this->baseurl);
+$doc->addStyleSheet($tpath.'/css/template.css');
 
 ?>

@@ -1,0 +1,18 @@
+{
+    "name": "BlankBootstrap",
+    "version": "0.0.1",
+    "description": "Blank Bootstrap Template\r ======================",
+    "main": "Gruntfile.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "BSD",
+    "devDependencies": {
+        "grunt": "~0.4.2",
+        "time-grunt": "~0.2.10",
+        "load-grunt-tasks": "~0.4.0",
+        "grunt-contrib-less": "~0.10.0",
+        "grunt-contrib-watch": "~0.5.3"
+    }
+}
